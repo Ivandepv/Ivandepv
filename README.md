@@ -1,21 +1,20 @@
-- 👋 Hi, I’m @Jorge Coronado currently an Undergraduate Student.
+- 👋 Hi, I’m Jorge Coronado, I am currently an Undergraduate Student pursuing a Bachelor's in Computer Science.
 - 👀 I’ve been interested in Programming since I was child, therefore I have been learning early and got good results.
-- 🌱 I’m currently studying in @Tecnologico de Monterrey CSN a bachelor's in Computer Science.
-
--     My current skills are
+- 🌱 I’m currently studying @ Tecnologico de Monterrey CSN
+   My current skills are
       
-      Languages      Frameworks      extra
+      Languages      Frameworks      Extra
       
       Javascript     Express.js      trpc 
-      Typescript     React.js        node   
+      Typescript     React.js        node.js   
       Python         Next.js               
                                
       
 
 - 📫 You can reach me through 
-Email: Jorgeivancvcontact@gmail.com 
-Linkedin: https://www.linkedin.com/in/jorge-coronado-449ab7252/ 
-Upwork: Jorge Coronado
+	- [E-mail](jorgeivancvcontact@gmail.com)
+	- [Linkedin](https://www.linkedin.com/in/jorge-coronado-449ab7252/)
+	- Upwork: Jorge Coronado
 
 <!---
 
