@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Jorge Coronado, I am currently an Undergraduate Student pursuing a Bachelor's in Computer Science.
 - 👀 I’ve been interested in Programming since I was child, therefore I have been learning early and got good results.
 - 🌱 I’m currently studying @ Tecnologico de Monterrey CSN
-   My current skills are
+
+My current skills are
       
       Languages      Frameworks      Extra
       
