@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Jorge Coronado currently student.
-- 👀 I’m interested in Programming since child, therefore I have been learning early and got good results.
-- 🌱 I’m currently studying in @Tecnologico de Monterrey CSN a bachelor computer scientist.
+- 👋 Hi, I’m @Jorge Coronado currently an Undergraduate Student.
+- 👀 I’ve been interested in Programming since I was child, therefore I have been learning early and got good results.
+- 🌱 I’m currently studying in @Tecnologico de Monterrey CSN a bachelor's in Computer Science.
 
 -     My current skills are
       
@@ -12,7 +12,10 @@
                                
       
 
-- 📫 You can reach me through Email: Jorgeivancvcontact@gmail.com  Celphone: 6623547720 Upwork: Jorge Coronado
+- 📫 You can reach me through 
+Email: Jorgeivancvcontact@gmail.com 
+Linkedin: https://www.linkedin.com/in/jorge-coronado-449ab7252/ 
+Upwork: Jorge Coronado
 
 <!---
 
