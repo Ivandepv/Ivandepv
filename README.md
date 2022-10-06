@@ -3,13 +3,13 @@
 - 🌱 I’m currently studying in @Tecnologico de Monterrey CSN a bachelor computer scientist.
 
 -     My current skills are
-      Levels 1 2 3
       
-      Languages      Frameworks      Concepts
-      Javascript 3    Express.js 2    Json 3
-      Node.js 3       React 2         Redux 2
-      Typescript 2                    Ajax 3
-      Python 1                        Spa 2
+      Languages      Frameworks      extra
+      
+      Javascript     Express.js      trpc 
+      Typescript     React.js        node   
+      Python         Next.js               
+                               
       
 
 - 📫 You can reach me through Email: Jorgeivancvcontact@gmail.com  Celphone: 6623547720 Upwork: Jorge Coronado
