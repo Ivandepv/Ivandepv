@@ -8,9 +8,10 @@ My current skills are
       
       Javascript     Express.js      trpc 
       Typescript     React.js        node.js   
-      Python         Next.js               
-      C                     
+      Python         Next.js         HTML
+      C              TensorFlow      CSS
       C++
+      R
 
 - 📫 You can reach me through 
 	- [E-mail](jorgeivancvcontact@gmail.com)
