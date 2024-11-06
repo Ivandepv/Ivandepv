@@ -1,7 +1,7 @@
 # 👋 Hi, I'm **Jorge Coronado!**
 
-![Profile Views](https://komarev.com/ghpvc/?username=jorge-coronado&color=blue) 
-![GitHub Followers](https://img.shields.io/github/followers/jorge-coronado?style=social)
+![Profile Views](https://komarev.com/ghpvc/?username=Ivandepv&color=blue) 
+![GitHub Followers](https://img.shields.io/github/followers/Ivandepv?style=social)
 
 🎓 **Undergraduate in Computer Science**  
 💻 **Passionate Programmer** | 🌱 **Lifelong Learner**
@@ -36,8 +36,8 @@ Hello! I'm Jorge, an undergraduate student in Computer Science at **Tecnologico 
 ### 📈 GitHub Stats
 
 <div align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=jorge-coronado&show_icons=true&theme=radical" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorge-coronado&layout=compact&theme=radical" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Ivandepv&show_icons=true&theme=radical" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ivandepv&layout=compact&theme=radical" />
 </div>
 
 ---
