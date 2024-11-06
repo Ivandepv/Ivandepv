@@ -11,7 +11,7 @@
 ### About Me
 Hello! I'm Jorge, an undergraduate student in Computer Science at **Tecnologico de Monterrey**. I've been fascinated by programming since I was a child, which inspired me to start learning early. My passion for technology keeps growing, and I’m always excited to take on new challenges.
 
-- 📚 I’m currently working on [Project Name] _(describe briefly)_.
+- 📚 I’m currently working on Smartflow _(a quoter that uses artificial intelligence and sensors)_.
 - 🔍 I’m looking to collaborate on projects that solve real-world problems and make an impact.
 - 🌎 Fun fact: **I love exploring new programming languages!**
 
