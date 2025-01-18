@@ -15,5 +15,5 @@
     
 [![](https://img.shields.io/badge/linkedin-0a66c2)](https://www.linkedin.com/in/jorge-coronado-449ab7252)
 [![](https://img.shields.io/badge/email-ea4335)](mailto:jorgeivancvcontact@gmail.com)
-[![](https://img.shields.io/badge/League%20of%20Legends-148EFF)](https://u.gg/lol/profile/la1/elscatennosh-nosh/overview)
+[![](https://img.shields.io/badge/LoL-FFD700)](https://u.gg/lol/profile/la1/elscatennosh-nosh/overview)
 </div>
