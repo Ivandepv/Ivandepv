@@ -10,7 +10,7 @@
     🐾 Pet Lover
 </pre>
 <br><br>
-<img src="https://raw.githubusercontent.com/Ivandepv/Ivandepv/main/assets/tar.gif" height="40" />
+<img src="https://raw.githubusercontent.com/Ivandepv/Ivandepv/main/assets/tar.gif" height="90" />
 <br><br><br>
     
 [![](https://img.shields.io/badge/linkedin-0a66c2)](https://www.linkedin.com/in/jorge-coronado-449ab7252)
